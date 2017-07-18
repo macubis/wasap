@@ -1,0 +1,64 @@
+*{
+	padding: 0px;
+	margin:0px;
+	background: #dadad7;
+}
+.raya{
+	background: #157e6e;
+	width: 100%;
+	height: 80px;
+}
+.filas{
+	display: inline-block;
+	background: white;
+}
+.barra{
+	background:#dadad7;
+	padding: 10px;
+}
+.perfil2{
+	padding:16px;
+	width: 35%;
+}
+
+.perfil{
+	width: 15%;
+}
+.perfil3{
+	padding:17px;
+	width: 16%;
+}
+.gris{
+	display: relative;
+	top: -40px;
+	background: #dadad7;
+	border:1px solid #8b8989;
+}
+.clip{
+	font-size: 30px;
+	color:black;
+}
+.titulo{
+	font-size: 15px;
+	font-weight: bolder;
+	text-decoration: none;
+	color:black;
+}
+.integrantes{
+	display: block;
+	padding:5px 12px;
+	background: white;
+	text-decoration: none;
+	border:1px solid #dadad7;
+	height: 65px;
+}
+.titulo2{
+
+}
+.botton{
+	background-image: url("../img/chat-panel-bg.png");
+	background-repeat: repeat;
+}
+.cuadrado{
+	border:1px solid #8b8989;
+}
